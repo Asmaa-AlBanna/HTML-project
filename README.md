@@ -1,2 +1,2 @@
-# Hello
+# HTML project
 My first repository
